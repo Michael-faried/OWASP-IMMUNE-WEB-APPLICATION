@@ -1,7 +1,6 @@
 # OWASP-IMMUNE-WEB-APPLICATION
 A secure web application that is immune to some of the OWASP Top 10 2021 vulnerabilities.
 
-
 ### ❖ A01 Broken Access Control
 There should be a login system in the application. Also, there should be an
 admin page that is restricted from the normal users. The inputs should be
